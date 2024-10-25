@@ -82,10 +82,6 @@ This project focuses on building an end-to-end NLP system that performs data scr
    ```
 2. **Run Data Scraping**:
    - Use `crawler.ipynb` to collect data from specified sources.
-3. **Load Data into Vectorbase**:
-   - Run `load_vectorbase.py` to store data in Chroma vector database.
-4. **Launch the RAG System**:
-   - Use `rag_chat.py` to start the Q&A chatbot.
 
 ## Future Enhancements
 
